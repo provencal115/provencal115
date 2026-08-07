@@ -27,7 +27,6 @@ Software Development
 - Object-Oriented Programming
 - Database Design
 - Authentication & Role-Based Access Control
-- Git & GitHub
 
 Tools & Technologies
 - XAMPP
